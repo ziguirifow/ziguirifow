@@ -1,4 +1,9 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Thulio</h1>
+<h3 align="center">A passionate student and developer from Brazil.</h3>
+
+<p align="center">
+<a href="https://linkedin.com/in/thulio-alves-gomes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="thulio-alves-gomes" height="20" width="20" /></a>
+</p>
 
 <!--
 **ziguirifow/ziguirifow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
